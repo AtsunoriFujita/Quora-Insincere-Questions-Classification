@@ -8,7 +8,7 @@ This respository contains my code for competition in kaggle.
 
 ### Model
 - Word embedding use glove, paragram, word2vec, fasttext. And PCA(1200 → 300)
-- LSTM + GRU + Self Attention
+- LSTM + GRU + Self Attention + Max pooling
 - Loss function: FocalLoss
 - Optimizer: AdamW
 - Learning schedule: CyclicLR
