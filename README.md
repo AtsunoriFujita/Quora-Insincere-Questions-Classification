@@ -16,6 +16,8 @@ This respository contains my code for competition in kaggle.
 - n_splits = 4
 - batch_size = 2048
 - train_epochs = 5
+- base_lr, max_lr = 0.001, 0.003  
+- Weight Decay = 0.0001
 - Learning schedule: CyclicLR
 
 
