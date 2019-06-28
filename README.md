@@ -11,12 +11,13 @@ This respository contains my code for competition in kaggle.
 - LSTM + GRU + Self Attention + Max pooling
 - Loss function: FocalLoss
 - Optimizer: AdamW
-- Learning schedule: CyclicLR
 
 ### train
 - n_splits = 4
 - batch_size = 2048
 - train_epochs = 5
+- Learning schedule: CyclicLR
+
 
 Public score: 0.69768    
 Private score: 0.70532
