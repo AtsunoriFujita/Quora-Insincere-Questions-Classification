@@ -3,7 +3,7 @@
 This respository contains my code for competition in kaggle.
 
 
-53st Place Solution for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification "Quora Insincere Questions Classification")
+53rd Place Solution for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification "Quora Insincere Questions Classification")
 
 
 ### Model
