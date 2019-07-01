@@ -8,7 +8,7 @@ This respository contains my code for competition in kaggle.
 
 ### Model
 - Based on Recurrent Convolutional Neural Network. I referred to this [repository](https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch/tree/master/Model_RCNN)
-- Word embedding use glove, paragram, word2vec, fasttext. And PCA(1200 → 300)
+- Word embeddings use glove, paragram, word2vec, fasttext. And applied PCA(1200 → 300)
 - LSTM + GRU + Self Attention + Max pooling
 - Loss function: FocalLoss
 - Optimizer: AdamW
